@@ -1,1 +1,2 @@
-print('version 1')
+for i in ['hello', 'world']:
+	print(i)
